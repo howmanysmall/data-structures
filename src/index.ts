@@ -9,4 +9,7 @@ export * from "./queues/max-priority-queue";
 export * from "./queues/min-priority-queue";
 export * from "./queues/priority-types";
 
+export * from "./random/live-random";
+
 export * from "./utilities/binary-insert";
+export * from "./utilities/gcd";
