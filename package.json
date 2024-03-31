@@ -5,6 +5,7 @@
 	"repository": "https://github.com/howmanysmall/data-structures.git",
 	"author": "HowManySmall",
 	"license": "MIT",
+	"description": "A collection of data structures and algorithms for use in Roblox.",
 	"scripts": {
 		"build": "rbxtsc",
 		"watch": "rbxtsc -w",
@@ -31,5 +32,8 @@
 		"prettier": "^3.2.5",
 		"roblox-ts": "^2.3.0",
 		"typescript": "^5.4.3"
+	},
+	"dependencies": {
+		"@rbxts/t": "^3.1.1"
 	}
 }
