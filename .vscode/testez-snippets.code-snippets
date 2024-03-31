@@ -1,0 +1,17 @@
+{
+	"Unit Test": {
+		"prefix": "unittest",
+		"description": "Create a unit test.",
+		"body": [
+			"//!native",
+			"//!nonstrict",
+			"//!optimize 2",
+			"/// <reference types=\"@rbxts/testez/globals\" />",
+			"",
+			"export = () => {};",
+			"",
+		],
+
+		"scope": "typescriptreact,typescript",
+	},
+}

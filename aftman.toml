@@ -1,0 +1,4 @@
+[tools]
+rojo = "rojo-rbx/rojo@7.4.0"
+tarmac = "jeparlefrancais/tarmac@0.7.1"
+lune = "filiptibell/lune@0.8.2"
