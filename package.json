@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/data-structures",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"main": "out/init.lua",
 	"repository": "https://github.com/howmanysmall/data-structures.git",
 	"author": "HowManySmall",

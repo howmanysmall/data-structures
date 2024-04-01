@@ -11,5 +11,9 @@ export * from "./queues/priority-types";
 
 export * from "./random/live-random";
 
+export * from "./tries/dynamic-score-decomposed-trie";
+export * from "./tries/trie";
+
 export * from "./utilities/binary-insert";
 export * from "./utilities/gcd";
+export * from "./utilities/memoize";
